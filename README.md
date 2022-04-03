@@ -13,6 +13,8 @@ Git과 GitHub 사용법 숙지 중
 
 -----------
 
+# 제목 텍스트
+
 # GitHub Test Check
 ## GitHub Test Check
 ### GitHub Test Check
@@ -21,6 +23,11 @@ Git과 GitHub 사용법 숙지 중
 ###### GitHub Test Check
 
 - - -
+
+# 줄바꾸기
+제목 텍스트는 엔터 1번
+
+일반 텍스트는 엔터 2번
 
 # GitHub Test Check
 Enter Test
@@ -34,6 +41,43 @@ Enter Test
 
 ***
 
+# 순서있는 목록
+
+1. 원격 저장소 만들기
+2. Origin 연결하기
+3. Push
+4. Pull vs Fetch
+5. 협업하기
+
+1. 원격 저장소 만들기
+4. Pull vs Fetch
+3. Push
+5. 협업하기
+2. Origin 연결하기
+
+목록은 항목 전체가 하나의 단락이기 때문에 Enter 한 번
+
+순서대로 작성하지 않아도 번호에 따라 순서대로 나타남
+
 ************
 
+# 순서없는 목록
+- 원격 저장소 만들기
+- Origin 연결하기
+- Push
+- Pull vs Fetch
+- 협업하기
+
++ 1
+  + 2
++ 3
+
+* 1
+  * 2
+    * 3
+      * 4 
+
+Tab 눌러 항목을 들여 쓰면 여러 단계를 가진 목록 생성
+
 * * *
+
