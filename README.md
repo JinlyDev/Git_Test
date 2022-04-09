@@ -148,3 +148,5 @@ https://github.com/dtb02403/Git_Test/edit/master/README.md
 # 이미지 삽입 연습
 
 ![연습 이미지](https://lh5.googleusercontent.com/proxy/GCVG8mPw_wFQIajVX7HkqnEJv2249HWuCpYiz9mjxoCnIje9AnH6kGBoXjNjglMWD4cba6y5t_DQLtiE_P4sHoAYLMVzP6aL7jZtGw=w3840-h2160-p-k-no-nd-mv)
+
+![Jin](./Git_Image/Jin.jpg)
